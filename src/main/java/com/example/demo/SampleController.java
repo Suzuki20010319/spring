@@ -8,7 +8,7 @@ public class SampleController {
 
 	@GetMapping("/get")
 	public String sample() {
-		return "この画面はウィルスに感染されています";
+		return "チーム友達";
 	}
 }
 
